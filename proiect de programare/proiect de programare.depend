@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1713172398 source:c:\users\rmspa\onedrive\desktop\proiect de programare\proiect de programare\main.c
+	"proiect.h"
+
+1713172510 source:c:\users\rmspa\onedrive\desktop\proiect de programare\proiect de programare\proiect.c
+	"proiect.h"
+
+1713123428 c:\users\rmspa\onedrive\desktop\proiect de programare\proiect de programare\proiect.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
